@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michaelnjuguna
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning Math and Web development
-- 💞 I love Javascript
+- 💞 Javascript and Typescript 
 - 📫 How to reach me michaelnjuguna184@gmail.com/+25496371360
 
 <!---

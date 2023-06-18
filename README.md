@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @michaelnjuguna
-- 👀 I’m interested in full stack web development
+- 👀 I’m interested in full stack web and mobile app development
 - 🌱 I’m currently learning Math and Web development
-- 💞 Javascript and Typescript 
+- 💞 Full-stack Javascript and Ionic  
 - 📫 How to reach me michaelnjuguna184@gmail.com/+25496371360
+- 👨‍💻 MERN Developer
+  
 
 <!---
 michaelnjuguna/michaelnjuguna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

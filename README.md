@@ -8,7 +8,7 @@
 
 - :fire: My main superpower is _**JavaScript and TypeScript**_.
 
-- :mortar_board: I am pursuing a degree in Math and Computer Science
+- :mortar_board: BSc Mathematics and Computer Science
 
 - :zap: In my free time I work on personal projects and hone my skills.
 

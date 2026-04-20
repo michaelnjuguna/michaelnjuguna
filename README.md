@@ -13,7 +13,7 @@
 - :zap: In my free time I work on personal projects, hone my skills and make YouTube videos.
 
 - :video_camera: My YouTube channel link: ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrVQe-jlmfmkLrDuCzAhtnQ)
-- :speech_balloon: Discord Community: [![Discord](https://img.shields.io/discord/TMjC8fRt?label=Join&logo=discord&style=flat-square&color=5865F2)](https://discord.gg/TMjC8fRt)
+- :speech_balloon: Discord Community: [![Discord](https://img.shields.io/discord/DKSvfWZtmP?label=Join&logo=discord&style=flat-square&color=5865F2)](https://discord.gg/DKSvfWZtmP)
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Michael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-njuguna/)
 - :email: E-mail: Michaelnjuguna184@gmail.com
 

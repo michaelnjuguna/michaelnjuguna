@@ -4,9 +4,9 @@
 
 ### :ear: About Me :
 
-- :telescope: I’m   an _**Oracle Database administrator**_.
+- :telescope: I’m   a _**Data Platform Engineer**_.
 
-- :fire: My main superpowers are _**SQL, Bash, Linux and Python**_.
+- :fire: My main superpowers are _**SQL,Python and Databricks**_.
 
 - :mortar_board: BSc Mathematics and Computer Science
 
@@ -23,8 +23,9 @@
 
 
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Flutter" alt="Flutter" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="dart" alt="dart" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="airflow" alt="airflow" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original-wordmark.svg" width="40" height="40"/>&nbsp;

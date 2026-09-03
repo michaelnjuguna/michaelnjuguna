@@ -4,7 +4,7 @@
 
 ### :ear: About Me :
 
-- :telescope: I’m   a _**Data Platform Engineer**_.
+- :telescope: I’m   a _**Database Engineer**_.
 
 - :fire: My main superpowers are _**SQL,Python and Databricks**_.
 
